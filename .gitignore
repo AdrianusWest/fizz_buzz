@@ -1,0 +1,6 @@
+.pytest_cache
+.venv
+dist
+.idea
+fizz_buzz/__pycache__
+
